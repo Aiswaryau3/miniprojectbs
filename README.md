@@ -1,2 +1,2 @@
 # miniprojectbs
-This is the miniproject which shows the analysis throw visualization.
+Bike sales dataset showing customer demographics and purchase behavior for analyzing sales trends.
